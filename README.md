@@ -1,4 +1,7 @@
 # GIF downloader and renderer for ComputerCraft: Tweaked
+## Installling
+
+Simply Run `pastebin get BkRwKZ2i gifplay` in a CC computer. Ensure http enabled in world/serverconfig/computercraft etc
 
 ## Usage
 
